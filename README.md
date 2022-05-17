@@ -5,6 +5,7 @@
 - 📫 How to reach me:
    - Twitter: @christiansueur
    - Website : https://christiansueur.com
+   - Linkedin : https://www.linkedin.com/in/christiansueur/
 
 <!---
 ChristianSueur/ChristianSueur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
